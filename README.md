@@ -1,2 +1,2 @@
 # ParkinsonsPredictor
-Using two different classification strategies to try to predict whether someone has Parkinsons disease.
+This project is an educational project created to deepen my knowledge of machine learning through hands on work. In this notebook you will see that I use two different classification strategies to try to predict whether someone has Parkinsons disease or not accoridning to the data set that can be also found in the repository. Information and insperation was drawn from the public kaggle courses regarding machine learning, deep learning, and pandas.
